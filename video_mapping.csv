@@ -1,0 +1,3 @@
+cholect45_id,cholec80_id,cholect45_frames,cholec80_frames,frame_difference,match,status
+VID01,video01,1734,1734,0,True,matched
+VID02,video02,2840,2840,0,True,matched
